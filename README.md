@@ -22,6 +22,8 @@ export default {
     project: ['./tsconfig.json', './tsconfig.node.json'],
     tsconfigRootDir: __dirname,
   },
+LOOM VIDEO LINK:https://www.loom.com/share/9f82413b39934b93ad590e8851c8ba1b
+
 }
 ```
 
